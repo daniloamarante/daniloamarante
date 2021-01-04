@@ -1,7 +1,7 @@
 ## Hello My Friends 👋
 
   
-My name is **Danilo Amarante**, I am Brazilian 🇧🇷  and a lover of Technology, I am currently studying Javascript and its frameworks. My dream is to become a great developer and contribute to major projects in my country and who knows the world.
+My name is **Danilo Amarante**, I am Brazilian  and a lover of Technology, I am currently studying Javascript and its frameworks. My dream is to become a great developer and contribute to major projects in my country and who knows the world.
 
   
 My main skills today are: 
