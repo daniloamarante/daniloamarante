@@ -25,7 +25,8 @@ Below is my social media   🤖
 
 ```markdown
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/daniloamarante)](https://github.com/daniloamarante)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-amarante-b178b777/)](https://www.linkedin.com/in/danilo-amarante-b178b777/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-amarante-b178b777/)]
+
 
   
 Thank you and always come back  🥰
